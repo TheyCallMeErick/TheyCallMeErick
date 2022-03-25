@@ -9,10 +9,10 @@
 👨‍💻 Visite meu [portifolio](portifolio-nu-black.vercel.app)
 <h3>Converse comigo:</h3>
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="_blank">
+  <a href="//www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="blank">
     <img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="linkedin"/>
   </a>
-  <a href="https://dev.to/azevedoerick" target="_blank">
+  <a href="https://dev.to/azevedoerick" target="blank">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="devto"/>
   </a>
 </p>

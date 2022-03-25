@@ -4,8 +4,9 @@
 
 <img align="right" src="./code.gif" width="400px">
 <hr/>
-- 📚 Focado em estudar <bold>Flutter e Java<bold/><br/>
-- 👨‍💻 Visite meu [portifolio](https://github.com/Azevedo-Erick/portifolio)
+📚 Focado em estudar <bold>Flutter e Java<bold/>
+  
+👨‍💻 Visite meu [portifolio](portifolio-nu-black.vercel.app)
 <h3>Converse comigo:</h3>
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="_blank">

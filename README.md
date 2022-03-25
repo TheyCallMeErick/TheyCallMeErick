@@ -1,20 +1,23 @@
-<h1 align="center">Olá 👋, me chamo Erick</h1>
-<h3 align="center">Estudo Sistemas de Informação</h3>
+<h1>Olá 👋, me chamo Erick</h1>
+<h3>Estudo Sistemas de Informação</h3>
 <img align="right" src="./code.gif" width="400px">
-
-- 📚 Atualmente estou estudando **Python, Java and Vue**
-
-- 👨‍💻 Visite meu [portifolio](https://github.com/Azevedo-Erick/portifolio)
-
-<h3 align="left">Converse comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" height="30" width="40" /></a>
-<a href="https://discord.gg/!Ⓟⓡⓞ Ⓩⓔⓡⓞ#5852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="!Ⓟⓡⓞ Ⓩⓔⓡⓞ#5852" height="30" width="40" /></a>
+<hr/>
+- 📚 Focado em estudar <bold>Flutter e Java<bold/><br/>
+- 👨‍💻 Visite meu <a src="https://github.com/Azevedo-Erick/portifolio" target="_blank">portifolio</a>
+<h3>Converse comigo:</h3>
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="_blank">
+<img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="linkedin"/>
+</a>
 </p>
+<hr/>
 
-<h3 align="left">Minhas ferramentas e linguagens:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="left">Skills</h3>
+
+<img src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square&logoWidth=30" alt="bash" height="30"/>  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&logoWidth=30" alt="Java" height="30"/>  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square&logoWidth=30" alt="Flutter" height="30"/>  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square&logoWidth=30" alt="Git" height="30"/>  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square&logoWidth=30" alt="Git" height="30"/>  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoWidth=30" alt="JavaScript" height="30"/>  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square&logoWidth=30" alt="HTML5" height="30"/>  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square&logoWidth=30" alt="CSS" height="30"/>  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square&logoWidth=30" alt="MariaDB" height="30"/>  <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square&logoWidth=30" alt="MariaDB" height="30"/>  <img src="https://img.shields.io/badge/-NodeJs-339933?logo=nodedotjs&logoColor=white&style=flat-square&logoWidth=30" alt="NodeJs" height="30"/>  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square&logoWidth=30" alt="postgresql" height="30"/>  <img src="https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="vuejs"/>  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="vscode"/>  <img src="https://img.shields.io/badge/-Inkscape-000000?logo=inkscape&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="inkscape"/>  <img src="https://img.shields.io/badge/-Manjaro Linux-35BF5C?logo=manjaro&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="manjaro"/>
+
+
 <hr>
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo-Erick&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo-Erick" />
 </a>

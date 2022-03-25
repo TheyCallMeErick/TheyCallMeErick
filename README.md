@@ -9,9 +9,12 @@
 👨‍💻 Visite meu [portifolio](portifolio-nu-black.vercel.app)
 <h3>Converse comigo:</h3>
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="_blank">
-<img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="linkedin"/>
-</a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="linkedin"/>
+  </a>
+  <a href="https://dev.to/azevedoerick" target="_blank">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="devto"/>
+  </a>
 </p>
 <hr/>
 
@@ -44,7 +47,7 @@
     <img src="https://img.shields.io/badge/-NodeJs-339933?logo=nodedotjs&logoColor=white&style=flat-square&logoWidth=30" alt="NodeJs" height="30"/>
   </p>
   
-### Ferramentas  
+### 🔧 Ferramentas  
   <p>
     <img src="https://img.shields.io/badge/-Inkscape-000000?logo=inkscape&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="inkscape"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="vscode"/>

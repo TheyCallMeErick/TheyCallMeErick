@@ -1,6 +1,9 @@
 # Olá 👋, me chamo Erick
-
-## Estudo Sistemas de Informação
+<a href="https://www.codewars.com/users/Azevedo-Erick">
+      <img  src="https://www.codewars.com/users/Azevedo-Erick/badges/large" />
+    </a>
+    
+## Estudo Sistemas de Informação 
 
 <img align="right" src="./code.gif" width="300px" height="400px">
 <hr/>
@@ -59,9 +62,6 @@
 <p align="center">
   <a  href="https://github.com/anuraghazra/github-readme-stats">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azevedo-Erick" />
-    </a>
-    <a href="https://www.codewars.com/users/Azevedo-Erick">
-      <img  src="https://www.codewars.com/users/Azevedo-Erick/badges/large" />
     </a>
 </p>
 

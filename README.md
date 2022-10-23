@@ -31,7 +31,7 @@
   
 #### 📑 Domino
   <p>
-    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&logoWidth=30" alt="Java" height="30"/>
+    <img src="https://img.shields.io/badge/-Golang-000000?logo=go&logoColor=white&style=flat-square&logoWidth=30" alt="Java" height="30"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoWidth=30" alt="JavaScript" height="30"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square&logoWidth=30" alt="CSS" height="30"/>   
     <img src="https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white&style=flat-square&logoWidth=30" height="30" alt="vuejs"/>

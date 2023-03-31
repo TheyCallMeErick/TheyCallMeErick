@@ -5,7 +5,7 @@
     
 ## Estudo Sistemas de Informação 
 
-<img align="right" src="./code.gif" width="300px" height="400px">
+<img align="right" src="./code.gif" width="40%">
 <hr/>
 📚 Focado em estudar <bold>Flutter e Java<bold/>
   

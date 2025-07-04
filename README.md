@@ -13,7 +13,7 @@ I am passionate about software development, focusing on creating efficient solut
 
 <img align="right" src="./images/code.gif" width="40%" />
 
-- Learning **Kotlin** and **Flutter**
+- Learning **C#** and **Flutter**
 - Deepening knowledge in **JS/TS**
 - Exploring **software architecture** and **distributed systems**
 

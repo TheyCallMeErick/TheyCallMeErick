@@ -19,7 +19,7 @@ I am passionate about software development, focusing on creating efficient solut
 
 🔥 Always looking for new challenges and best practices!
 
-🎯 Check out my [portfolio](https://portifolio-nu-black.vercel.app)
+<!--🎯 Check out my [portfolio](https://portifolio-nu-black.vercel.app)-->
 
 ---
 

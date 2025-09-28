@@ -6,14 +6,12 @@ I’m passionate about building efficient solutions and continuously learning. C
 ---
 
 ## 🌐 Connect with Me
-<p>
   <a href="https://www.linkedin.com/in/erick-azevedo-sousa-0589881b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/azevedoerick" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-</p>
 
 ---
 

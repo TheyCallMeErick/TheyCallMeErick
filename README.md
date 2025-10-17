@@ -42,18 +42,13 @@ I’m passionate about building efficient solutions and continuously learning. C
   <img src="https://img.shields.io/badge/Besu-232323?style=for-the-badge&logo=ethereum&logoColor=3C3C3D"/>
 </p>
 
-### Tools & DevOps  
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-232323?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Docker-232323?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Bash-232323?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
 </p>
 
-### Environment  
-<p>
-  <img src="https://img.shields.io/badge/Fedora-232323?style=for-the-badge&logo=fedora&logoColor=294172"/>
-  <img src="https://img.shields.io/badge/VSCode-232323?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-</p>
 
 ---
 
